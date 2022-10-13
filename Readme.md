@@ -1,4 +1,4 @@
-# Hey, nice to see you here!:
+# Hey, nice to see you here! 🥳
 🔩 I'm currently working as Software Engineer in Test<br>🔍 I'm looking to collaborate on OpenSource Projects and Automation Test Projects<br>🤝 I'm looking for help to improve my technical skills such as Algorithms and Data Structures<br>🏋 I'm a Crossfit Lover n love to talk about that!
 
 
@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaolucasoh&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasoh&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<!-- ### ✍️ Random Dev Quote -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) -->
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>

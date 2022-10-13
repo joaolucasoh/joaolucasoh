@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔩 I'm currently working as <b>Software Engineer in Test</b> <br>🔍 I'm looking to collaborate on OpenSource Projects and Automation Test Projects<br> 🫱🏽‍🫲🏻I'm looking for help to improve my technical skills such as Algorithms and Data Structures<br>🏋🏾I'm Crossfit Lover n love talk about that! 
+🔩 I'm currently working as <b>Software Engineer in Test</b> <br>🔍 I'm looking to collaborate on OpenSource Projects and Automation Test Projects<br>🤝 🏻I'm looking for help to improve my technical skills such as Algorithms and Data Structures<br>🏋 🏾I'm Crossfit Lover n love talk about that! 
 
 
 ## 🌐 Socials:

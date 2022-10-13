@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey, nice to see you here!:
 🔩 I'm currently working as Software Engineer in Test<br>🔍 I'm looking to collaborate on OpenSource Projects and Automation Test Projects<br>🤝 I'm looking for help to improve my technical skills such as Algorithms and Data Structures<br>🏋 I'm a Crossfit Lover n love to talk about that!
 
 

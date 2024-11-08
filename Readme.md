@@ -11,7 +11,6 @@
 ![Appium](https://img.shields.io/badge/appium-3C3C3D?style=for-the-badge&logo=appium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaolucasoh&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>

@@ -15,6 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaolucasoh&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaolucasoh&theme=default&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasoh&layout=compact&langs_count=10&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasoh&layout=compact&langs_count=10&theme=default&hide=shell)
+
 
 

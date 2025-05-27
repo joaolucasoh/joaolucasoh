@@ -1,5 +1,5 @@
 # Hey, nice to see you here! 🥳
-🔩 I'm currently working as Software Engineer in Test<br>🔍 I'm looking to collaborate on OpenSource Projects and Automation Test Projects<br>🤝 I'm looking for help to improve my technical skills such as Algorithms and Data Structures<br>🏋 I'm a Crossfit Lover n love to talk about that!
+🔩 I'm currently working as Software Engineer in Test<br>🔍 I'm looking to people to study about Machine Learning Engineering<br>🤝 I'm looking for help to improve my technical skills such as Algorithms and Data Structures<br>🏋 I'm a Crossfit Lover n love to talk about that!
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

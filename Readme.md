@@ -6,7 +6,7 @@
 ![Appium](https://img.shields.io/badge/appium-3C3C3D?style=for-the-badge&logo=appium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-<img src="https://playwright.dev/img/playwright-logo.svg" height="28"/>
+<img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/plawright.svg"/>
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  
 # 📊 GitHub Stats:

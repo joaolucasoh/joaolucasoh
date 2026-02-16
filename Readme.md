@@ -13,7 +13,7 @@
   style="vertical-align: middle"
 />
 &nbsp;
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge) ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaolucasoh&theme=default&hide_border=false)<br>

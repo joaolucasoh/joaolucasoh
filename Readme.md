@@ -9,5 +9,5 @@
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaolucasoh&theme=default&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasoh&layout=compact&langs_count=10&theme=default&hide=shell)
+![GitHub Streak](https://streak-stats.demolab.com?user=joaolucasoh&theme=default&hide_border=false)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaolucasoh&layout=compact&langs_count=10&theme=default&hide=shell&v=3)

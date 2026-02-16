@@ -10,4 +10,4 @@
  
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaolucasoh&theme=default&hide_border=false)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasoh&layout=compact&langs_count=10&theme=default&hide=shell)
+![Top Langs](https://github-readme-stats-joao.vercel.app/api/top-langs/?username=joaolucasoh&layout=compact&langs_count=10&hide=shell)

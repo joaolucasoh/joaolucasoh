@@ -7,9 +7,10 @@
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 <img
   src="https://raw.githubusercontent.com/microsoft/playwright.dev/main/static/img/playwright-logo.svg"
-  alt="Playwright"
-  height="28"
-/> 
+  height="24"
+  style="vertical-align: middle"
+/>
+<strong> Playwright</strong>
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  
 # 📊 GitHub Stats:
